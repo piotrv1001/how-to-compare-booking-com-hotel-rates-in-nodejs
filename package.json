@@ -1,0 +1,11 @@
+{
+  "name": "how-to-compare-booking-com-hotel-rates-in-nodejs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node src/index.js" },
+  "dependencies": {
+    "apify-client": "^2.13.0",
+    "dotenv": "^16.4.5"
+  }
+}

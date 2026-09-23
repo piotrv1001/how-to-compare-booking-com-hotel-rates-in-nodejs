@@ -1,0 +1,43 @@
+[
+  {
+    "hotelId": 280149,
+    "hotelName": "The Savoy",
+    "hotelUrl": "https://www.booking.com/hotel/gb/the-savoy.en-gb.html",
+    "stars": 5,
+    "checkin": "2026-10-02",
+    "checkout": "2026-10-03",
+    "nights": 1,
+    "adults": 2,
+    "rooms": 1,
+    "soldOut": false,
+    "currency": "GBP",
+    "totalPrice": 1004.17,
+    "pricePerNight": 1004.17,
+    "taxesAndCharges": 200.83,
+    "freeCancellation": true,
+    "isCompetitor": false,
+    "comparedToHotelId": null,
+    "scrapedAt": "2026-09-23T09:10:43.055Z"
+  },
+  {
+    "hotelId": 220088,
+    "hotelName": "Club Quarters Hotel St Paul's, London",
+    "hotelUrl": "https://www.booking.com/hotel/gb/clubquarters-london-st-pauls.en-gb.html",
+    "stars": 4,
+    "checkin": "2026-10-02",
+    "checkout": "2026-10-03",
+    "nights": 1,
+    "adults": 2,
+    "rooms": 1,
+    "soldOut": false,
+    "currency": "GBP",
+    "totalPrice": 151.52,
+    "pricePerNight": 151.52,
+    "taxesAndCharges": 32.94,
+    "freeCancellation": false,
+    "isCompetitor": true,
+    "comparedToHotelId": 280149,
+    "comparedToHotelName": "The Savoy",
+    "scrapedAt": "2026-09-23T09:10:43.146Z"
+  }
+]
