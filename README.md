@@ -2,6 +2,8 @@
 
 This example calls the [Booking.com Rates Scraper](https://apify.com/piotrv1001/booking-com-rates-scraper) on Apify. It does not implement a scraper from scratch.
 
+![Booking.com hotel and nearby-property rate rows in the Apify Console](./booking_com_rates_results.png)
+
 ## What this example does
 
 - Prices The Savoy for two one-night stays with two adults
